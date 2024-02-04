@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harkirankaur06
 - 👀 I’m interested in learning more in programming
-- 🌱 I’m currently at school and learning basic python
+- 🌱 I’m currently at college and learning intermediate python
 - 💞️ I’m looking to collaborate on projects and learning from them
 
 
